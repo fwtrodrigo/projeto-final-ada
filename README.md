@@ -46,3 +46,8 @@ Este projeto é uma aplicação simples em Python que coleta informações sobre
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
+
+## Como Contribuir
+
+Para saber como contribuir para este projeto, veja o guia [CONTRIBUIÇÕES](contributing/CONTRIBUTING.md).
+
