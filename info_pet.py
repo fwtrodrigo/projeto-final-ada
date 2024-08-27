@@ -1,5 +1,9 @@
 def coletar_informacoes_pet():
+    """
+    Coleta informações sobre um animal de estimação e as imprime.
 
+    Solicita ao usuário o nome, a idade e o peso do pet. A idade e o peso devem ser valores numéricos e não podem ser negativos.
+    """
     print("Por favor, insira as informações sobre seu pet.")
 
     nome = input("Nome do pet: ")
